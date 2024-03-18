@@ -21,3 +21,8 @@ TYPES OF STEGANOGRAPHY
 
 
 
+   Hi There...👋
+   I have designed a beautiful website which is related to the jntuksyllabus. 
+   Website link: https://jntuksyllabus.in/
+
+
