@@ -4,7 +4,9 @@ Steganography is the art of hiding the fact that communication is taking place, 
 TYPES OF STEGANOGRAPHY
 
 1.Steganography in Image
+
 2.Steganography in Audio
+
 3.Steganography in Video
 
 1.Steganography in Image: This involves hiding secret information within an image file. Imagine you have a picture of a cat. In steganography, 
