@@ -27,6 +27,8 @@ TYPES OF STEGANOGRAPHY
 
    Hi There...👋
    
+   ![jntu-kakinada](https://github.com/shaik-muskinvali/KIET--final-year-project-Steganography/assets/110755598/33ed2dd9-ea54-45fe-bf97-8c049cd8e221)
+   
    I have designed a beautiful website which is related to the jntuksyllabus. 
    Website link: https://jntuksyllabus.in/
 
