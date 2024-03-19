@@ -21,8 +21,8 @@ TYPES OF STEGANOGRAPHY
    beautiful landscape. Within the video, there might be hidden frames or data that are not visible during normal playback. It's like hiding a 
     message within the frames of the video, making it imperceptible to the viewer but retrievable with the right techniques.
     
-    ![ss](https://github.com/shaik-muskinvali/KIET--final-year-project-Steganography/assets/110755598/549a1fe1-ba52-4c7d-a8d4-2bcd82b174ab)
 
+![ss](https://github.com/shaik-muskinvali/KIET--final-year-project-Steganography/assets/110755598/6c75e157-896d-43dc-bae0-f23a39e4d203)
 
 
    Hi There...👋
